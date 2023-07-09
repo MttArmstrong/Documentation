@@ -1,9 +1,10 @@
 ---
-title: "Introduction"
-teaching: 0
-exercises: 0
+title: "Documentation Tools"
+teaching: 10
+exercises: 15
 questions:
-- "Key question (FIXME)"
+- "What tools enable better documentation?"
+- "What tools can streamline the documentation process?"
 objectives:
 - "First learning objective. (FIXME)"
 keypoints:
