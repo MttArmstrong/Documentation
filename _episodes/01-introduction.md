@@ -35,7 +35,7 @@ benefits of good documentation:
 
 - _Better Maintainability_: Undocumented or incorrectly documented code can do more harm than good. It is difficult to maintain code that does not have sufficient and accurate documentation. Good documentation clarifies what the code is doing in each part and makes it easier to change.
 - _Improved Team Productivity_: Especially for new team members, sufficiently good documentation can help get everyone on the same page and new members up to speed.
-- _Increased Code Quality_: Documentating what you think your code does helps to clear up inconsistencies and can lead developers to refactor something that is needlessly complicated. Overall, documentation has a positive effect on overall quality.
+- _Increased Code Quality_: Documenting what you think your code does helps to clear up inconsistencies and can lead developers to refactor something that is needlessly complicated. Overall, documentation has a positive effect on overall quality.
 
 ## The Challenges to Making Good Documentation
 
@@ -43,8 +43,8 @@ As anyone would tell you, documentation isn't easy. Some of the challenges
 involved are:
 
 - _Time_: Writing good documentation can take time, and especially for projects with unreliable or limited funding, it can become a afterthought. It also introduces potential technical debt if interfaces or functionality change.
-- _Skill_: Writing good documentaton is _hard_. It must be practiced and practiced and practiced. People can become jaded by how much practice it takes to become truly skilled at documenting well.
-- _Process_: Does writing documentation feel unnatural or clunky to you? Without proper processes, writing documentation can feel like it's wasting your precious time.
+- _Skill_: Writing good documentation is _hard_. It must be practiced and practiced and practiced. People can become jaded by how much practice it takes to become truly skilled at documenting well.
+- _Process_: Does writing documentation feel unnatural or "clunky" to you? Without proper processes, writing documentation can feel like it's wasting your precious time.
 
 > ## What do you think of this documentation?
 >

@@ -12,4 +12,10 @@ layout: reference
 - Martin, R. C. (2009). Clean code: a handbook of agile software craftsmanship. Pearson Education.
 - Sommerville, I. (2001). Software documentation. Software engineering, 2, 143-154.
 
+FIXME: Add these:
+
+- Developer documenting done right: why, who, what, where, when & how: https://swimm.io/blog/developer-documenting-done-right/
+- GitHub Documentation best practices: https://google.github.io/styleguide/docguide/best_practices.html
+
+
 {% include links.md %}
