@@ -14,9 +14,7 @@ better documentation habits.
 
 > ## Prerequisites
 >
-> * Basic understanding of git
-> * git (installed locally)
-> * GitHub account
+> * Basic understanding of python
 > * Text editor
 {: .prereq}
 

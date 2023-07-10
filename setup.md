@@ -4,18 +4,12 @@ title: Setup
 
 > ## Prerequisites
 >
-> * Basic understanding of git
-> * git (installed locally)
-> * GitHub account
+> * Basic understanding of python
 > * Text editor
 {: .prereq}
 
-[CodeRefinery](https://coderefinery.org/) has useful information about how
-to get started with git, from installation to usage.
-
-- [Installing git](https://coderefinery.github.io/installation/)
-- [Introduction to git](https://coderefinery.github.io/git-intro/)
-- [Setting up a GitHub Account](https://coderefinery.github.io/installation/github/)
+There are no specific technical skills or special setup required for this
+lesson.
 
 
 {% include links.md %}
