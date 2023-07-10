@@ -44,7 +44,7 @@ keypoints:
 >
 {:.challenge}
 
-## User Documentation
+## User Documentation Examples
 
 | Documentation Type | Explanation | Example |
 | ------------------ | ----------- | ------- |
