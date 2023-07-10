@@ -64,7 +64,7 @@ also enable automatic documentation generation in some variety. To name a few:
 | IDE | Languages |
 | --- | --------- |
 | [VSCode](https://code.visualstudio.com/) |  PHP, HTML, CSS, SCSS, Less, JavaScript, JSON, TypeScript, Markdown, PowerShell, C++, Java, Python, Go, T-SQL, C#, .NET Core, etc. |
-| [NetBeans](https://netbeans.apache.org/) | C, C++, C++11, Fortan, HTML 5, Java, PHP, etc. |
+| [NetBeans](https://netbeans.apache.org/) | C, C++, C++11, Fortran, HTML 5, Java, PHP, etc. |
 | [PyCharm](https://www.jetbrains.com/pycharm/) | AngularJS, Coffee Script, CSS, Cython, HTML, JavaScript, Node.js, Python, TypeScript |
 | [Eclipse](https://www.eclipse.org/ide/) | C, C++, Java, Perl, PHP, Python, Ruby, etc. |
 
