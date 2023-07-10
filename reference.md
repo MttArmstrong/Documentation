@@ -14,5 +14,13 @@ layout: reference
 - Martin, R. C. (2009). Clean code: a handbook of agile software craftsmanship. Pearson Education.
 - Sommerville, I. (2001). Software documentation. Software engineering, 2, 143-154.
 
+## Documentation Tools
+
+- [Daux.io](http://daux.io/index.html)
+- [Doxygen](https://www.doxygen.nl/)
+- [GitHub Pages](https://pages.github.com/)
+- [MkDocs](https://www.mkdocs.org/)
+- [ReadtheDocs](https://readthedocs.org/)
+- [Sphinx](https://www.sphinx-doc.org/en/master/)
 
 {% include links.md %}

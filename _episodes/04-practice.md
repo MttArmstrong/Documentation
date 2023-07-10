@@ -22,15 +22,15 @@ keypoints:
 | API | This type of documentation is both developer and user documentation. From a developer perspective, this documentation elaborates the intent of the code, e.g., what the code is supposed to be doing, which can improve maintainability. | [Spack's API Documentation](https://spack.readthedocs.io/en/latest/spack.html) |
 
 
-> ## PRACTICE: Euler's Method API Documentation
+> ## PRACTICE: Euler's Method Documentation
 >
 > Have you heard of Euler's Method? It's a way to calculate a numerical
 > approximation for the value of a function, based on a starting value `x_0`,
 > a particular step size `h`, and the derivative of the function.
 >
-> Write some API documentation for the following code snippet:
+> Write some documentation for the following code snippet:
 >
-> ```
+> ```python
 > class EulersMethod(self):
 >    def deriv(self, x, y):
 >        return y**2 + y*x + x**3
