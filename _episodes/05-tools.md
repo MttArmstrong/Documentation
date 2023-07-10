@@ -7,8 +7,10 @@ questions:
 - "What tools can streamline the documentation process?"
 objectives:
 - "Become familiar with categories of tools to streamline documentation processes."
+- "Practice using a small subset of documentation tools."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Documentation tools vary from styles to text editors to automation."
+- "Many tools have quick-start capabilities to get small or new projects started with better documentation processes."
 ---
 
 ## Documentation Tools
