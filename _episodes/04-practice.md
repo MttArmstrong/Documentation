@@ -12,11 +12,14 @@ keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
 
-## Developer Documentation
+## Developer Documentation Examples
 
-### Common Types
+| Documentation Type | Explanation | Example |
+| ------------------ | ----------- | ------- |
+| Team processes | This type of documentation documents the expected development processes within a team. These generally include an objective, stakeholders, and steps to follow. | [US-RSE'23 Website Repository `CONTRIBUTING` guide](https://github.com/USRSE/usrse23/blob/main/CONTRIBUTING.md) |
+| Styles and standards | This type of documentation states the expectations on styles and standards within a code. This can include preferred tools, usage of existing style guides, and project or domain-specific standards. | [Pyomo's Required Coding Standards](https://pyomo.readthedocs.io/en/stable/contribution_guide.html#coding-standards) |
+| API | This type of documentation is both developer and user documentation. From a developer perspective, this documentation elaborates the intent of the code, e.g., what the code is supposed to be doing, which can improve maintainability. | [Spack's API Documentation](https://spack.readthedocs.io/en/latest/spack.html) |
 
-### Style Guides
 
 > ## PRACTICE: Euler's Method API Documentation
 >
@@ -42,7 +45,11 @@ keypoints:
 
 ## User Documentation
 
-
+| Documentation Type | Explanation | Example |
+| ------------------ | ----------- | ------- |
+| Installation | This documentation is meant to help users get a package installed and working properly. Frequently, it will detail not only the different methods of installing the software, but also simple explanations of how to ensure it was installed correctly (e.g., a sanity test).  | [NumPy Installation Instructions](https://numpy.org/install/) |
+| Debugging and troubleshooting | This type of documentation helps users troubleshoot common errors. This is normally built from previous questions or common mistakes, such as invalid setup, options, or inputs. | [Pyomo Common Warnings and Errors](https://pyomo.readthedocs.io/en/stable/errors.html) |
+| Tutorials and examples | This type of documentation is meant to show users, step-by-step, on either small or real-world scales, how a software package is supposed to be used. This documentation helps with clarifying the developers' intended use and acts as a starting point for users. | [Pandas Getting Started Tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) |
 
 > ## PRACTICE: Install Python
 >

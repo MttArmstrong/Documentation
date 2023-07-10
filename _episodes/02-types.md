@@ -16,12 +16,10 @@ keypoints:
 ## The Types of Software Documentation
 
 In our discussion of documentation, we will focus on two overarching
-categories:
+categories: _Developer_ and _User_.
 
-![Undraw co image of a developer]({{ page.root }}/fig/undraw-dev.png) ![Undraw co image of a user]({{ page.root }}/fig/undraw-user.png)
+![Undraw co image of a developer]({{ page.root }}/fig/undraw-dev.png)![Undraw co image of a user]({{ page.root }}/fig/undraw-user.png)
 
-1. **Developer**
-1. **User**
 
 ### But wait... aren't there more?
 

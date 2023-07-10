@@ -25,7 +25,7 @@ keypoints:
 
 ## Bias in Documentation
 
-**FIXME**: Sandwich picture!
+![Getty Images sandwich art]({{ page.root }}/fig/sandwich.png)
 
 You have now told your partner how to make a sandwich. Have you ever done that before?
 Maybe you told them the steps:
@@ -42,9 +42,9 @@ someone who has never seen or eaten a sandwich might not know.
 You must be thoughtful when writing your documentation. In particular, it is
 important to consider:
 
-- **Culture**: You are an end product of your culture. Your culture provides you with a common understanding, common language, and more. Avoid slang/colloquialisms (e.g., "spaghetti code"), use clear and concise language, and consider how your audience's culture may differ from your own.
-- **Context**: What does "workflow" mean? That depends on your context. Different domain sciences may use the same words in different contexts. Be cautious of this and ensure that your audience is aware of your domain's particular language and context.
-- **Experience**: People are different, and their experiences are different. Your documentation should also take that into account. Design your documentation to match the experience level you expect of your audience, and _note that in the documentation_!
+- *Culture*: You are an end product of your culture. Your culture provides you with a common understanding, common language, and more. Avoid slang/colloquialisms (e.g., "spaghetti code"), use clear and concise language, and consider how your audience's culture may differ from your own.
+- *Context*: What does "workflow" mean? That depends on your context. Different domain sciences may use the same words in different contexts. Be cautious of this and ensure that your audience is aware of your domain's particular language and context.
+- *Experience*: People are different, and their experiences are different. Your documentation should also take that into account. Design your documentation to match the experience level you expect of your audience, and _note that in the documentation_!
 
 ## Documentation Better Practices
 
