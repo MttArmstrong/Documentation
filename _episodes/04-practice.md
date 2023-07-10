@@ -9,7 +9,8 @@ objectives:
 - "Become familiar with real-life examples of documentation."
 - "Practice writing different kinds of documentation."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "There are numerous examples of different types of documentation in practice, each with its own intended purpose."
+- "A project must pick the documentation that makes the most sense for its use case and domain."
 ---
 
 ## Developer Documentation Examples
