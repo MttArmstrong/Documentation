@@ -20,6 +20,7 @@ better documentation habits.
 > * Python 3.7+ with pip (installed locally)
 > * Text editor
 > * GitHub account
+> * Copy of [INTERSECT Day 2 Template](https://github.com/INTERSECT-training/intersect-training-day2)
 {: .prereq}
 
 {% include links.md %}
