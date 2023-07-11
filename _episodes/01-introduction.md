@@ -20,7 +20,7 @@ Software documentation, per Forward, is any artifact made as part of the
 software development process that is intended to communicate information
 about the software system about which it was written.
 
-![Undraw Co Image depicting documents]({{ page.root }}/fig/undraw-doc.png)
+![Undraw Co Image depicting documents]({{ page.root }}/fig/undraw-doc.png){:width="50%"}
 
 Most people are familiar with this concept and know good documentation when
 they see it. More difficult, however, is how to _write_ good documentation.

@@ -72,7 +72,7 @@ Many of these IDEs incorporate documentation generators that follow standard
 style guides. For example, the [Spyder IDE](https://www.spyder-ide.org/) will
 begin to generate docstrings based on your specified style guide.
 
-![Spyder IDE docstring settings]({{ page.root }}/fig/spyder-docstring.png)
+![Spyder IDE docstring settings]({{ page.root }}/fig/spyder-docstring.png){:width="75%"}
 
 ### Automated Generation
 
@@ -130,17 +130,17 @@ practice repository.
 1. _Make a `gh-pages` branch_.
    Either from the GUI or through command line, make a new branch named `gh-pages`.
    In the GUI, you would do this by clicking on the branches link:
-   ![GitHub Branches button highlighted]({{ page.root }}/fig/branches.png)
+   ![GitHub Branches button highlighted]({{ page.root }}/fig/branches.png){:width="75%"}
    Then click on "New branch":
-   ![GitHub Branches new branch]({{ page.root }}/fig/new-branch.png)
+   ![GitHub Branches new branch]({{ page.root }}/fig/new-branch.png){:width="75%"}
    Name it `gh-pages`:
-   ![GitHub Branches gh-pages branch]({{ page.root }}/fig/gh-pages-branch.png)
+   ![GitHub Branches gh-pages branch]({{ page.root }}/fig/gh-pages-branch.png){:width="50%"}
 2. _Set up GitHub to build from that branch_.
    In the GUI, go to "Settings" > "Pages":
-   ![GitHub Pages Settings]({{ page.root }}/fig/gh-pages-setting.png)
+   ![GitHub Pages Settings]({{ page.root }}/fig/gh-pages-setting.png){:width="75%"}
    Change the settings to "Source: Deploy from branch", "Branch: gh-pages", and
    "directory /docs". Then hit "Save."
-   ![GitHub Pages final settings]({{ page.root }}/fig/gh-pages-final-settings.png)
+   ![GitHub Pages final settings]({{ page.root }}/fig/gh-pages-final-settings.png){:width="75%"}
 
 Now complete the following exercise!
 
