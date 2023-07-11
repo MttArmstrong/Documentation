@@ -170,7 +170,7 @@ Now complete the following exercise!
 >
 {:.callout}
 
-That's it! You now know some useful tips and tricks for making better documentation.s
+That's it! You now know some useful tips and tricks for making better documentation.
 
 {% include links.md %}
 
