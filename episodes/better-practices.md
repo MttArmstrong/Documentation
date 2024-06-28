@@ -2,30 +2,38 @@
 title: "Documentation Better Practices"
 teaching: 10
 exercises: 20
-questions:
-- "How does bias affect documentation?"
-- "What are better practices for software documentation?"
-objectives:
-- "Learn about some of the unconscious biases that are apparent when writing documentation."
-- "Become familiar with practices that have been empirically shown to improve software documentation, both in process and end product."
-keypoints:
-- "It is important to be aware of potential unconscious biases when writing documentation. Make sure to consider culture, context, and experience."
-- "No single practice will fit all software projects, but there are some generally better practices: version control, less is more, know your audience, document as you go."
 ---
 
-> ## Let's make a sandwich
->
-> We are going to make a nut butter and jelly sandwich.
->
-> * Write instructions for making this sandwich.
-> * Trade instructions with another participant and read each others'.
-> * How clear are the instructions? What are the strengths and weaknesses?
->
-{:.challenge}
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- "Learn about some of the unconscious biases that are apparent when writing documentation."
+- "Become familiar with practices that have been empirically shown to improve software documentation, both in process and end product."
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- "How does bias affect documentation?"
+- "What are better practices for software documentation?"
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Let's make a sandwich
+
+We are going to make a nut butter and jelly sandwich.
+
+* Write instructions for making this sandwich.
+* Trade instructions with another participant and read each others'.
+* How clear are the instructions? What are the strengths and weaknesses?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Bias in Documentation
 
-![Getty Images sandwich art]({{ page.root }}/fig/sandwich.png)
+![](fig/sandwich.png){alt='Getty Images sandwich art'}
 
 You have now told your partner how to make a sandwich. Have you ever done that before?
 Maybe you told them the steps:
@@ -58,15 +66,22 @@ as a guide for some better practices that may help your project.
 1. _Document as you go_: It can be difficult to go back and write documentation a day later. It's even more difficult to try to do it a month later. It is recommended that documentation updates happen as part of your regular work so it's fresh in your mind and can help inform your development path.
 1. _User test your documentation_: A great way to keep your documentation current and accurate is to regularly use it. This, however, goes back to the sandwich idea - you may have a bias and fill in the gaps that you consider to be "obvious." Instead, have a new team member try to use the documentation. For every question they have or barrier they hit, make an adjustment to that section of the document.
 
-> ## Let's make a sandwich... again
->
-> Try this exercise again. We want to make a nut butter and jelly sandwich.
->
-> * Write instructions to make this sandwich.
-> * Partner with the same participant as before.
-> * Discuss: What changes did you make?
->
-{:.challenge}
+:::::::::::::::::::::::::::::::::::::::  challenge
 
-{% include links.md %}
+## Let's make a sandwich... again
+
+Try this exercise again. We want to make a nut butter and jelly sandwich.
+
+* Write instructions to make this sandwich.
+* Partner with the same participant as before.
+* Discuss: What changes did you make?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- "It is important to be aware of potential unconscious biases when writing documentation. Make sure to consider culture, context, and experience."
+- "No single practice will fit all software projects, but there are some generally better practices: version control, less is more, know your audience, document as you go."
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
