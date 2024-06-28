@@ -2,24 +2,29 @@
 title: "Types of Software Documentation"
 teaching: 5
 exercises: 5
-questions:
+
+---
+
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- "Become familiar with the two main categories of software documentation and how they differ."
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
 - "What are the different types of software documentation?"
 - "How do the types differ?"
-objectives:
-- "Become familiar with the two main categories of software documentation and how they differ."
-keypoints:
-- "There are two primary categories for documentation: developer and user."
-- "Developer documentation is intended to describe how developers should interface with a given software package."
-- "User documentation is intended to help users be more successful in the usage of a software package."
----
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## The Types of Software Documentation
 
 In our discussion of documentation, we will focus on two overarching
 categories: _Developer_ and _User_.
 
-![Undraw co image of a developer]({{ page.root }}/fig/undraw-dev.png){:width="40%"}
-![Undraw co image of a user]({{ page.root }}/fig/undraw-user.png){:width="40%"}
+![](fig/undraw-dev.png){alt='Undraw co image of a developer'}
+![](fig/undraw-user.png){alt='Undraw co image of a user'}
 
 
 ### But wait... aren't there more?
@@ -36,12 +41,14 @@ types listed here. We provide some examples below:
 | Developer | Requirements documentation; testing documentation; API documentation |
 | User | How-to guides; tutorials; troubleshooting guidelines |
 
-> ## Can you think of more?
->
-> What other types of documentation can you think of? Do they fit into
-> the categories above?
->
-{:.challenge}
+:::::::::::::::::::::::::::::::::::::::  challenge
+
+## Can you think of more?
+
+What other types of documentation can you think of? Do they fit into
+the categories above?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Characteristics of Each Type
 
@@ -50,5 +57,11 @@ types listed here. We provide some examples below:
 | Developer | To inform developers how to interface with a given software package throughout the entire software development lifecycle, including team processes. | Developers, stakeholders, team members, technical members of project |
 | User | To inform users how to be more successful in the usage of a software package from installation to usage, including examples, troubleshooting, etc. | End-users, stakeholders |
 
-{% include links.md %}
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- "There are two primary categories for documentation: developer and user."
+- "Developer documentation is intended to describe how developers should interface with a given software package."
+- "User documentation is intended to help users be more successful in the usage of a software package."
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 

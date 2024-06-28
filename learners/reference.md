@@ -1,7 +1,3 @@
----
-layout: reference
----
-
 ## References
 
 - Aghajani, E., Nagy, C., Vega-Márquez, O. L., Linares-Vásquez, M., Moreno, L., Bavota, G., & Lanza, M. (2019, May). Software documentation issues unveiled. In 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE) (pp. 1199-1210). IEEE.
@@ -23,4 +19,3 @@ layout: reference
 - [ReadtheDocs](https://readthedocs.org/)
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 
-{% include links.md %}

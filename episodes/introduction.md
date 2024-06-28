@@ -2,17 +2,21 @@
 title: "Introduction"
 teaching: 5
 exercises: 5
-questions:
+---
+
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- "Become familiar with the benefits and challenges of software documentation."
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
 - "What is software documentation?"
 - "Why do we care about it?"
 - "What are the challenges?"
-objectives:
-- "Become familiar with the benefits and challenges of software documentation."
-keypoints:
-- "Software documentation provides both users and developers information about what a software is supposed to do."
-- "Software documentation has numerous benefits including improved team productivity, increased code quality, and better maintainability."
-- "Software documentation can be challenging due to cost and time to maintain."
----
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Software Documentation Overview
 
@@ -20,7 +24,7 @@ Software documentation, per Forward, is any artifact made as part of the
 software development process that is intended to communicate information
 about the software system about which it was written.
 
-![Undraw Co Image depicting documents]({{ page.root }}/fig/undraw-doc.png){:width="50%"}
+![](fig/undraw-doc.png){alt='Undraw Co Image depicting documents'}
 
 Most people are familiar with this concept and know good documentation when
 they see it. More difficult, however, is how to _write_ good documentation.
@@ -46,15 +50,23 @@ involved are:
 - _Skill_: Writing good documentation is _hard_. It must be practiced and practiced and practiced. People can become jaded by how much practice it takes to become truly skilled at documenting well.
 - _Process_: Does writing documentation feel unnatural or "clunky" to you? Without proper processes, writing documentation can feel like it's wasting your precious time.
 
-> ## What do you think of this documentation?
->
-> Navigate to [https://spack.readthedocs.io/en/latest/](https://spack.readthedocs.io/en/latest/)
-> and spend a minute browsing the documentation.
-> 
-> * What makes this good documentation?
-> * Where is there room for improvement?
->
-{:.challenge}
+:::::::::::::::::::::::::::::::::::::::  challenge
 
-{% include links.md %}
+## What do you think of this documentation?
+
+Navigate to [https://spack.readthedocs.io/en/latest/](https://spack.readthedocs.io/en/latest/)
+and spend a minute browsing the documentation.
+
+* What makes this good documentation?
+* Where is there room for improvement?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- "Software documentation provides both users and developers information about what a software is supposed to do."
+- "Software documentation has numerous benefits including improved team productivity, increased code quality, and better maintainability."
+- "Software documentation can be challenging due to cost and time to maintain."
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
