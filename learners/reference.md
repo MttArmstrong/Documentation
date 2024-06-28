@@ -23,4 +23,3 @@ layout: reference
 - [ReadtheDocs](https://readthedocs.org/)
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 
-{% include links.md %}
